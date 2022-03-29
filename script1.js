@@ -14,7 +14,7 @@ begin.addEventListener('click', function() {
 });
 //random change
 function start() {
-
+// comment
     const minutes = Math.floor(time / 60);
     let seconds = time % 60;
 

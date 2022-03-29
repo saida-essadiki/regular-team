@@ -12,7 +12,7 @@ begin.addEventListener('click', function() {
     submit.style.visibility = "visible";
 
 });
-
+//random change
 function start() {
 
     const minutes = Math.floor(time / 60);

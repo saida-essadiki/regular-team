@@ -2,7 +2,7 @@ Go To Start & End Of Line
 Ctrl+Right
 Ctrl+Left
 
-
+change
 Move By Word
 Alt+Right
 Alt+Left

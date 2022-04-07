@@ -12,6 +12,7 @@ begin.addEventListener('click', function() {
     submit.style.visibility = "visible";
 
 });
+//random change 2
 //random change
 function start() {
 // comment
